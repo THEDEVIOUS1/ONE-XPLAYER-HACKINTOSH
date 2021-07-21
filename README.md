@@ -14,9 +14,9 @@ If you see anything that could be added or changed don't hesitate to make a pull
 
 ## One Xplayer Specifications:
 
-| Model: | Black |Black | Platinum |
+| Model: | i5-1135G7 | i7-1165G7 | i7-1185G7 |
 |---|----------|----------|----------|
-|CPU| i5-1135G7 quad core 1.1-4 Ghz| i7-1165G7 quad core 1.1-4 Ghz| i7-1185G7 quad core 1.2-4.4 Ghz|
+|CPU| quad core 1.1-4.2 Ghz| quad core 1.1-4.7 Ghz| quad core 1.2-4.8 Ghz|
 |GPU|Xe 80 EU | Xe 96 EU | Xe 96 EU |
 |RAM| 16 GB | 16 GB | 16 GB |
 |SSD| 512GB NVME | 1TB NVME | 2TB NVME |
