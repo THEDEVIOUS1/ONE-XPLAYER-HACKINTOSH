@@ -22,8 +22,8 @@ If you see anything that could be added or changed don't hesitate to make a pull
 |SSD| 512GB/1TB NVME | 2TB NVME |
 |WiFi| Intel WiFi 6 | Intel WiFi 6 |
 |Batt| 10,000 mAH | 10,000 mAH |
-|USB| 2x USB-C, Thunderbolt 4 | 2x USB-C, Thunderbolt 4 | 1x USB-A, Type USB 3.0
-
+|USB| 2x USB-C, Thunderbolt 4 | 2x USB-C, Thunderbolt 4 |
+|   | 1x USB-A, Type USB 3.0 | 1x USB-A, Type USB 3.0 |
 
 
 ## Instruction Guides
