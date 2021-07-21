@@ -49,7 +49,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 - TouchScreen / Stylus
 - Keyboard
 - Windows Boot Support From OpenCore Bootloader
-- Audio: Headphone Jack
+- Audio: Internal Speakers & Headphone Jack
 - Recovery
 - FileVault
 - Bluetooth
@@ -60,7 +60,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 ## What doesn't work
 
 - Graphic Acceleration including 4K support.
-- Audio: Built-in Microphone & Internal Speakers
+- Audio: Built-in Microphone
 - Brightness Adjustment
 - Power Management
 - Sleep / Wake
