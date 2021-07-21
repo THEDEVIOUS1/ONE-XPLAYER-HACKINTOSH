@@ -14,16 +14,16 @@ If you see anything that could be added or changed don't hesitate to make a pull
 
 ## One Xplayer Specifications:
 
-| Model: | Black | Platinum |
+| Model: | Black |Black | Platinum |
 |---|----------|----------|
-|CPU| i5-1165G7 quad core 1.1-4 Ghz| i7-1185G7 quad core 1.2-4.4 Ghz|
-|GPU| Xe 96 EU | Xe 96 EU |
-|RAM| 16 GB | 16 GB |
-|SSD| 512GB/1TB NVME | 2TB NVME |
-|WiFi| Intel WiFi 6 | Intel WiFi 6 |
-|Batt| 10,000 mAH | 10,000 mAH |
-|USB| 2x USB-C, Thunderbolt 4 | 2x USB-C, Thunderbolt 4 |
-|   | 1x USB-A, Type USB 3.0 | 1x USB-A, Type USB 3.0 |
+|CPU| i5-1135G7 quad core 1.1-4 Ghz| i7-1165G7 quad core 1.1-4 Ghz| i7-1185G7 quad core 1.2-4.4 Ghz|
+|GPU|Xe 80 EU | Xe 96 EU | Xe 96 EU |
+|RAM| 16 GB | 16 GB | 16 GB |
+|SSD| 512GB NVME | 1TB NVME | 2TB NVME |
+|WiFi| Intel WiFi 6 | Intel WiFi 6 | Intel WiFi 6 |
+|Batt| 15,300 mAH | 15,300 mAH | 15,300 mAH |
+|USB| 2x USB-C, Thunderbolt 4 | 2x USB-C, Thunderbolt 4 | 2x USB-C, Thunderbolt 4 |
+|   | 1x USB-A, Type USB 3.0 | 1x USB-A, Type USB 3.0 | 1x USB-A, Type USB 3.0 |
 
 
 ## Instruction Guides
