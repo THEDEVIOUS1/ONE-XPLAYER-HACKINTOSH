@@ -17,8 +17,8 @@ If you see anything that could be added or changed don't hesitate to make a pull
 | Model: | Black | Platinum |
 |---|----------|----------|
 |CPU| i5-1165G7 quad core 1.1-4 Ghz| i7-1185G7 quad core 1.2-4.4 Ghz|
-|GPU| Xe 80 EU | Xe 96 EU |
-|RAM| 8/16 GB | 16 GB |
+|GPU| Xe 96 EU | Xe 96 EU |
+|RAM| 16 GB | 16 GB |
 |SSD| 512GB/1TB NVME | 2TB NVME |
 |WiFi| Intel WiFi 6 | Intel WiFi 6 |
 |Batt| 10,000 mAH | 10,000 mAH |
