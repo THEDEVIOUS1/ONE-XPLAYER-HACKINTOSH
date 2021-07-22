@@ -59,7 +59,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 
 ## What doesn't work
 
-- Graphic Acceleration including 4K support.
+- Graphic Acceleration including 4K support & rotation (display stuck in portrait mode)
 - Audio: Built-in Microphone
 - Brightness Adjustment
 - Power Management
