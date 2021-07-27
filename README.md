@@ -39,7 +39,6 @@ If you see anything that could be added or changed don't hesitate to make a pull
 ## What works 
 
 - macOS 10.15.4 and above
-- SDcard is fully supported within macOS
 - Wi-Fi native Intel support
 - Fan
 - USB
@@ -66,7 +65,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 - Sleep / Wake
 - Thunderbolt: Video currently unsupported, Audio Untested
 - Fingerprint Sensor
-- Accelerometer
+- SDcard (working on possible fix)
 
 
 ## Credits
