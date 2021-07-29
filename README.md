@@ -53,7 +53,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 - FileVault
 - Bluetooth
 - Brightness Keys (This won't actually work until GPU Acceleration is achieved)
-- Mouse Mode 
+- Mouse Mode / Cloud Gamepad
 
 
 ## What doesn't work
