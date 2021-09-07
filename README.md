@@ -54,6 +54,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 - Bluetooth
 - Brightness Keys (This won't actually work until GPU Acceleration is achieved)
 - Mouse Mode / Cloud Gamepad
+- SDcard
 
 
 ## What doesn't work
@@ -65,7 +66,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 - Sleep / Wake
 - Thunderbolt: Video currently unsupported, Audio Untested
 - Fingerprint Sensor
-- SDcard (working on possible fix)
+
 
 
 ## Credits
